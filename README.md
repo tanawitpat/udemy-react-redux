@@ -1,4 +1,4 @@
-# udemy-advanced-react-redux
+# udemy-react-redux
 
 Udemy - Advanced React and Redux: 2018 Edition
 
